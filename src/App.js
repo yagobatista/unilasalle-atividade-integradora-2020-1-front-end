@@ -50,7 +50,7 @@ function App() {
       responsavelNome: numResp ? item.atribuicoes_Tecnicos[numResp - 1].tecnico.nome : '',
     }
   };
-  const baseUrl = 'http://localhost:8000'
+  const baseUrl = 'https://atv-int-3.herokuapp.com'
 
   useEffect(() => {
     if (!user) return
