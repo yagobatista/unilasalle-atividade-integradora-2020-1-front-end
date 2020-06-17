@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/unilasalle-atividade-integradora-2020-1-front-end/precache-manifest.f66b94bc6bed7c380dc9c9b653ea7949.js"
+  "/unilasalle-atividade-integradora-2020-1-front-end/precache-manifest.59aa990539bf92ec7df8b21f732a31c5.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/unilasalle-atividade-integradora-2020-1-front-end/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/unilasalle-atividade-integradora-2020-1-front-end/static/js/main.1c4eac6d.chunk.js",
-    "main.js.map": "/unilasalle-atividade-integradora-2020-1-front-end/static/js/main.1c4eac6d.chunk.js.map",
+    "main.js": "/unilasalle-atividade-integradora-2020-1-front-end/static/js/main.16f61c27.chunk.js",
+    "main.js.map": "/unilasalle-atividade-integradora-2020-1-front-end/static/js/main.16f61c27.chunk.js.map",
     "runtime-main.js": "/unilasalle-atividade-integradora-2020-1-front-end/static/js/runtime-main.060aef6e.js",
     "runtime-main.js.map": "/unilasalle-atividade-integradora-2020-1-front-end/static/js/runtime-main.060aef6e.js.map",
     "static/js/2.f30b4f01.chunk.js": "/unilasalle-atividade-integradora-2020-1-front-end/static/js/2.f30b4f01.chunk.js",
     "static/js/2.f30b4f01.chunk.js.map": "/unilasalle-atividade-integradora-2020-1-front-end/static/js/2.f30b4f01.chunk.js.map",
     "index.html": "/unilasalle-atividade-integradora-2020-1-front-end/index.html",
-    "precache-manifest.f66b94bc6bed7c380dc9c9b653ea7949.js": "/unilasalle-atividade-integradora-2020-1-front-end/precache-manifest.f66b94bc6bed7c380dc9c9b653ea7949.js",
+    "precache-manifest.59aa990539bf92ec7df8b21f732a31c5.js": "/unilasalle-atividade-integradora-2020-1-front-end/precache-manifest.59aa990539bf92ec7df8b21f732a31c5.js",
     "service-worker.js": "/unilasalle-atividade-integradora-2020-1-front-end/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/unilasalle-atividade-integradora-2020-1-front-end/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.f30b4f01.chunk.js.LICENSE.txt": "/unilasalle-atividade-integradora-2020-1-front-end/static/js/2.f30b4f01.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.060aef6e.js",
     "static/js/2.f30b4f01.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1c4eac6d.chunk.js"
+    "static/js/main.16f61c27.chunk.js"
   ]
 }
